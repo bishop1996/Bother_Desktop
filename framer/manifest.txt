@@ -33,6 +33,12 @@ node_modules/framer/build/framer.api.json
 node_modules/framer/README.md
 node_modules/framer/LICENSE.md
 node_modules/framer/CHANGELOG.md
+node_modules/@framer/framer.device-skin-apple-macbook-pro/yarn.lock
+node_modules/@framer/framer.device-skin-apple-macbook-pro/package.json
+node_modules/@framer/framer.device-skin-apple-macbook-pro/index.ts
+node_modules/@framer/framer.device-skin-apple-macbook-pro/device.png
+node_modules/@framer/framer.device-skin-apple-macbook-pro/build/index.js.map
+node_modules/@framer/framer.device-skin-apple-macbook-pro/build/index.js
 node_modules/@framer/colebemis.feather-icons/tsconfig.json
 node_modules/@framer/colebemis.feather-icons/package.json
 node_modules/@framer/colebemis.feather-icons/node_modules/@types/react/package.json
